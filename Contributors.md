@@ -1,4 +1,5 @@
 # Contributors
+-[Tejaswi1305](https://github.com/Tejaswi1305)
 - [Vasudeva Cuddapah](https://github.com/NitishCuddapah)
 - [Joe Akroush](https://github.com/reloadjoefromkokomo)
 - [mazezen](https://github.com/mazezen)
